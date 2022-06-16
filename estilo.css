@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    background-color: #CDBE78;
+}
+.inicio {
+    background-color: #383838;
+    color:  #F2F2F2;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    width: 500px;
+    position: relative;
+    margin: auto;
+    padding: 30px;
+    top: 200px;
+}
+p {
+    text-align: center;
+}
+
